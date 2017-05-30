@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+body{
+	
+	background: url('images/1.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	color:#fff;
+  	background-color:#333;
+  	font-family: 'microsoft yahei' ,Arial,sans-serif;
+  margin: 0;
+}

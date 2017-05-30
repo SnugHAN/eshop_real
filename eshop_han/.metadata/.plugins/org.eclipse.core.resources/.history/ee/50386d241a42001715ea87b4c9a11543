@@ -1,0 +1,5 @@
+@CHARSET "UTF-8";
+.nav:li{
+	height:30px;
+	weight:40px;
+}

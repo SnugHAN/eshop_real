@@ -1,0 +1,19 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>关于map标签的基本使用</title>
+</head>
+<body>
+<p>点击图片注意变化</p>
+<img src="images/1.jpg" alt="well,so bad" width="145" height="126" usemap="#plantsmap">
+<map name="plantsmap">
+<area shape="rect" coords="0,0,82,126" alt="sun is running" href="images/404.jpg">
+<area shape="circle" coords="90,58,3" alt="the circle pant is run" href="http://www.runoob.com/try/demo_source/venus.htm">
+<area shape="circle" coords="124,58,8" alt="all run" href="http://www.runoob.com/try/demo_source/mercur.htm">
+
+
+</map>
+
+</body>
+</html>

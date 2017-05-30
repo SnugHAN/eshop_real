@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" type="text/css" href="">
+</head>
+<body>
+<div id="bfhead">
+<div class="bbox"></div>
+<div class="border">
+</div>
+<div class="gbox"></div>
+<div class="htitl"><h3>Look! Styles and colors</h3></div>
+<div class="ftext">Manipulate Text</div>
+<div class="noname">
+Colors
+<span>
+Boxes
+</span>
+</div>
+<div class="amore">and more...</div>
+</div>
+</body>
+</html>

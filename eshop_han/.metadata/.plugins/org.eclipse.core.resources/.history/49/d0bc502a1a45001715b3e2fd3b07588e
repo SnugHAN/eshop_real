@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<table>
+<colgroup>
+<!-- 局限于两色的colgroup -->
+<col span="2" style="background-color:pink" >
+
+<col style="background-color:blue">
+
+</colgroup>
+<tr>
+<th>name</th>
+<th>shap</th>
+<th>done</th>
+	
+</tr>
+ <tr>
+    <td>3476896</td>
+    <td>My first HTML</td>
+    <td>$53</td>
+  </tr>
+  <tr>
+    <td>5869207</td>
+    <td>My first CSS</td>
+    <td>$49</td>
+  </tr>
+</table>
+<h4>一张自以为很gank的表</h4>
+<table class="time" border="1" cellpadding="10" width="100%">
+<colgroup>
+<col span="1" style="background-color:pink">
+<col style="backgrond-color:green">
+</colgroup>
+<tr>
+ <th colspan="2">时间\日期</th>
+	    <th>一</th>
+	    <th>二</th>
+	    <th>三</th>
+	    <th>四</th>
+	    <th>五</th>
+</tr>
+<tr>
+<th rowspan="2">上午</th>
+	    <th>9:30-10:15</th>
+	    <th>语文</th>
+	    <th>语文</th>
+	    <th>语文</th>
+	    <th>语文</th>
+	    <th>语文</th>
+</tr>
+<tr >
+ <th>10:25-11:10</th>
+	    <th>语文</th>
+	    <th>语文</th>
+	    <th>语文</th>
+	    <th>语文</th>
+	    <th>语文</th>
+	    </tr>
+ <tr>
+    <th colspan="7"></th>
+    </tr>
+
+    <tr>
+	    <th rowspan="2">下午</th>
+	    <th>14:30-15:15</th>
+	    <th>语文</th>
+	    <th>语文</th>
+	    <th>语文</th>
+	    <th>语文</th>
+	    <th>语文</th>
+    </tr>
+
+    <tr>
+	    <th>15:25-16:10</th>
+	    <th>语文</th>
+	    <th>语文</th>
+	    <th>语文</th>
+	    <th>语文</th>
+	    <th>语文</th>
+    </tr>
+</table>
+</body>
+</html>
